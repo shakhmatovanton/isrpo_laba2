@@ -76,6 +76,14 @@ python3
 
 ## История изменения проекта с хешами комитов 
 
+c9f9d8d (HEAD -> main) add: add documentation
+64d5dd9 feat: add function comment bloks in square.py
+26564c6 feat: Add function comment blocks in circle.py
+7d6bde6 add: add square.py with functions area and perimeter
+6d8a7ac add: add circle.py with functions area and perimeter
+d7503c1 add: add docs with readme
+677c0cb (origin/main, origin/HEAD) Initial commit
+
 
 
 
